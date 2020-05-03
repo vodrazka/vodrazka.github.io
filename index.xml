@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas Vodrazka</title>
+    <title>Posts on Thomas Vodrazka</title>
     <link>https://vodrazka.pl/</link>
-    <description>Thomas Vodrazka</description>
+    <description>Thomas Vodrazka (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
