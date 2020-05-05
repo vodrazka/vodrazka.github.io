@@ -186,10 +186,13 @@ header nav {
     max-width: 100%;
     text-align: right;
     margin-bottom: 1em;
+    align-items: center;
+    display: flex;
 }
 
 header nav a {
     margin-left: 2em;
+    margin-top: 0%;
 }
 
 header a {
